@@ -1,0 +1,104 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Microsoft",
+      "location": "Hyderabad, India",
+      "industry": "Software",
+      "size": 220000,
+      "website": "https://www.microsoft.com/en-in",
+      "description": "Products and services",
+      "foundedYear": 1975
+    },
+    {
+      "id": 2,
+      "name": "HDFC Bank",
+      "location": "Mumbai, India",
+      "industry": "Finance",
+      "size": 200000,
+      "website": "https://www.hdfc.bank.in/",
+      "description": "Banking and financial services",
+      "foundedYear": 1994
+    },
+    {
+      "id": 3,
+      "name": "Apollo Hospitals",
+      "location": "Bengaluru, India",
+      "industry": "Healthcare",
+      "size": 42000,
+      "website": "https://www.apollohospitals.com/",
+      "description": "Multispecialty hospital",
+      "foundedYear": 1983
+    },
+    {
+      "id": 4,
+      "name": "Cloud4c",
+      "location": "Hyderabad, India",
+      "industry": "Cloud",
+      "size": 5000,
+      "website": "https://www.cloud4c.com/",
+      "description": "Cloud managed services",
+      "foundedYear": 2014
+    },
+    {
+      "id": 5,
+      "name": "BYZU'S",
+      "location": "Pune, India",
+      "industry": "Education",
+      "size": 13000,
+      "website": "https://byjus.com/",
+      "description": "Educational technology company",
+      "foundedYear": 2015
+    },
+    {
+      "id": 6,
+      "name": "Reliance retail",
+      "location": "Delhi, India",
+      "industry": "Retail",
+      "size": 200000,
+      "website": "https://relianceretail.com/",
+      "description": "Retail company",
+      "foundedYear": 2006
+    },
+    {
+      "id": 7,
+      "name": "CPCL",
+      "location": "Chennai, India",
+      "industry": "Energy",
+      "size": 5000,
+      "website": "https://www.cpcl.co.in/",
+      "description": "World-class energy company",
+      "foundedYear": 1965
+    },
+    {
+      "id": 8,
+      "name": "McAfee",
+      "location": "Hyderabad, India",
+      "industry": "Cybersecurity",
+      "size": 6000,
+      "website": "https://www.mcafee.com/",
+      "description": "Online protection for consumers",
+      "foundedYear": 1987
+    },
+    {
+      "id": 9,
+      "name": "AWL agri",
+      "location": "Ahmedabad, India",
+      "industry": "Agriculture",
+      "size": 3000,
+      "website": "https://www.awl.in/",
+      "description": "Food and beverage conglomerate",
+      "foundedYear": 1999
+    },
+    {
+      "id": 10,
+      "name": "MakeMyTrip",
+      "location": "Haryana, India",
+      "industry": "Travel",
+      "size": 5000,
+      "website": "https://www.makemytrip.com/",
+      "description": "Travel planning and booking",
+      "foundedYear": 2000
+    }
+  ]
+}
