@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "start:api": "json-server --watch companies.json --port 4000",
+    "start:api": "json-server --watch companies.json --port $PORT",
     "dev": "concurrently \"npm:start\" \"npm:run start:api\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
